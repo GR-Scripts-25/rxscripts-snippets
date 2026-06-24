@@ -17,6 +17,8 @@ See the repository license for details.
 | Resource | Status | Version
 |----------|--------|--------|
 | `vms_housing` | 🟢 Tested & Working | 1.4.4
+| `vms_bossmenu` | 🟢 Tested & Working | 1.0.6
+| `tk_mdt` | 🟢 Tested & Working | 2.3.5
 
 
 
