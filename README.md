@@ -4,9 +4,9 @@ A collection of snippets and examples for **rxscripts**.
 
 ## About
 
-This repository contains useful code snippets to help developers integrate, customize, and extend OneInventory.
+This repository contains useful code snippets to help developers integrate, customize, and extend rxscripts.
 
-**Developed by OneStudios:** https://rxscripts.xyz/
+**Developed by rxscripts:** https://rxscripts.xyz/
 
 ## License
 
